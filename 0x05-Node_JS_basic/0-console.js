@@ -1,4 +1,4 @@
-//Displays a message to STDOUT
+// Displays a message to STDOUT
 
 const displayMessage = (msg) => {
   console.log(msg);
